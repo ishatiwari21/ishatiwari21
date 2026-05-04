@@ -7,7 +7,7 @@ Focused on **APIs, authentication, system design, and production-level features*
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 **Languages**  
 JavaScript · TypeScript · SQL · C++ · Solidity  
@@ -26,7 +26,7 @@ Git · GitHub · Socket.io · Bun · Turbo
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Full Stack Developer Intern — SellerGrid**  
 - Built **real-time live chat widget** using React, Node.js, Socket.io  
@@ -35,23 +35,23 @@ Git · GitHub · Socket.io · Bun · Turbo
 
 ---
 
-## 🔥 Projects
+##  Projects
 
-### ⚙️ Trading Workflow Automation Platform
+###  Trading Workflow Automation Platform
 - Drag-and-drop workflow builder (React Flow)  
 - Backend for real-time processing + authentication  
 
-### 🎵 Softwave — Music Streaming Platform
+###  Softwave — Music Streaming Platform
 - Full-stack app with low-latency playback  
 - Google OAuth + real-time voting system  
 
-### 💬 Live Chat System (SellerGrid)
+### Live Chat System (SellerGrid)
 - Embeddable chat widget + backend messaging system  
 - Real-time communication using Socket.io  
 
 ---
 
-## 🎯 Focus
+## Focus
 
 - Backend Development & System Design  
 - Real-time Applications  
