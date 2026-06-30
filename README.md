@@ -1,67 +1,89 @@
-# Isha Tiwari
+# Hi, I'm Isha Tiwari 👋
+
+![](https://komarev.com/ghpvc/?username=ishatiwari21&label=Profile%20Views&color=0e75b6&style=flat)
 
 **Full Stack Developer — Intern @ SellerGrid | CSIT @ KIET**
 
 Building scalable web applications, real-time systems, and backend-heavy products.  
-Focused on **APIs, authentication, system design, and production-level features**.
+Focused on APIs, authentication, system design, and production-level features.
 
 ---
 
-##  Tech Stack
+## 💻 Tech Stack
 
-**Languages**  
-JavaScript · TypeScript · SQL · C++ · Solidity  
+### Languages
+- JavaScript
+- TypeScript
+- SQL
+- C++
+- Solidity
 
-**Frontend**  
-React · Next.js · Tailwind CSS · shadcn/ui · React Flow  
+### Frontend
+- React
+- Next.js
+- Tailwind CSS
+- shadcn/ui
+- React Flow
 
-**Backend**  
-Node.js · Express.js · REST APIs · JWT Auth · OAuth  
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- OAuth
 
-**Databases**  
-MongoDB · PostgreSQL · Prisma  
+### Databases
+- MongoDB
+- PostgreSQL
+- Prisma
 
-**Tools**  
-Git · GitHub · Socket.io · Bun · Turbo  
+### Tools
+- Git
+- GitHub
+- Socket.io
+- Bun
+- Turborepo
 
 ---
 
-##  Experience
+## 💼 Experience
 
-**Full Stack Developer Intern — SellerGrid**  
-- Built **real-time live chat widget** using React, Node.js, Socket.io  
-- Developed **Support Inbox dashboard** with authentication & chat management  
-- Worked on **production-level backend APIs and real-time systems**
+### Full Stack Developer Intern — SellerGrid
+
+- Built a real-time live chat widget using React, Node.js, and Socket.io.
+- Developed a Support Inbox dashboard with authentication and chat management.
+- Worked on production-level backend APIs and real-time systems.
 
 ---
 
-##  Projects
+## 🚀 Projects
 
-###  Trading Workflow Automation Platform
-- Drag-and-drop workflow builder (React Flow)  
-- Backend for real-time processing + authentication  
+### Trading Workflow Automation Platform
+- Drag-and-drop workflow builder using React Flow.
+- Backend for authentication and real-time workflow processing.
 
-###  Softwave — Music Streaming Platform
-- Full-stack app with low-latency playback  
-- Google OAuth + real-time voting system  
+### Softwave — Music Streaming Platform
+- Full-stack music streaming application.
+- Google OAuth authentication.
+- Real-time voting system.
 
 ### Live Chat System (SellerGrid)
-- Embeddable chat widget + backend messaging system  
-- Real-time communication using Socket.io  
+- Embeddable chat widget.
+- Backend messaging system.
+- Real-time communication using Socket.io.
 
 ---
 
-## Focus
+## 🎯 Currently Focused On
 
-- Backend Development & System Design  
-- Real-time Applications  
-- Authentication & Scalable APIs  
-- Exploring Web3 (Solidity + Foundry fundamentals)  
+- Backend Development & System Design
+- Real-time Applications
+- Authentication & Scalable APIs
+- Exploring Web3 (Solidity + Foundry)
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/isha-tiwari1  
-- GitHub: https://github.com/ishatiwari21  
-- Email: ishatwari1802@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/isha-tiwari1
+- **Email:** ishatiwari1802@gmail.com 
