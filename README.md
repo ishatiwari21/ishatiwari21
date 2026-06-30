@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ishatiwari21&label=Profile%20Views&color=0e75b6&style=flat)
 
-**Full Stack Developer — Intern @ SellerGrid | CSIT @ KIET**
+**Full Stack Developer — ex Intern @ SellerGrid | CSIT @ KIET**
 
 Building scalable web applications, real-time systems, and backend-heavy products.  
 Focused on APIs, authentication, system design, and production-level features.
@@ -86,4 +86,5 @@ Focused on APIs, authentication, system design, and production-level features.
 ## 🌐 Connect With Me
 
 - **LinkedIn:** https://linkedin.com/in/isha-tiwari1
-- **Email:** ishatiwari1802@gmail.com 
+- **Email:** ishatiwari1802@gmail.com
+- **x:** https://x.com/Isha_Tiwari21
