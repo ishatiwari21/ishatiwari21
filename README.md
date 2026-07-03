@@ -1,6 +1,5 @@
 # Hi, I'm Isha Tiwari 👋
 
-![](https://komarev.com/ghpvc/?username=ishatiwari21&label=Profile%20Views&color=0e75b6&style=flat)
 
 **Full Stack Developer — ex Intern @ SellerGrid | CSIT @ KIET**
 
