@@ -1,7 +1,7 @@
 # Hi, I'm Isha Tiwari 👋
 
 
-**Full Stack Developer — ex Intern @ SellerGrid | CSIT @ KIET**
+**Full Stack Developer — CSIT @ KIET**
 
 Building scalable web applications, real-time systems, and backend-heavy products.  
 Focused on APIs, authentication, system design, and production-level features.
