@@ -33,54 +33,45 @@ Focused on **APIs • Authentication • System Design • Production-ready Appl
 
 ---
 
-# 💻 Tech Stack
+# ⚙️ Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,solidity" />
-</p>
-
-SQL
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-- shadcn/ui
-- React Flow
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![React Flow](https://img.shields.io/badge/React_Flow-7C3AED?style=for-the-badge)
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-4F46E5?style=for-the-badge)
+![JWT Auth](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-EA4335?style=for-the-badge&logo=google&logoColor=white)
 
-- REST APIs
-- JWT Authentication
-- OAuth
+### Databases & ORM
 
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-- Prisma ORM
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
-</p>
-
-- Socket.io
-- Bun
-- Turborepo
-
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 
 # 💼 Experience
 
