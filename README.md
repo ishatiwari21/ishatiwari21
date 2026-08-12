@@ -151,19 +151,6 @@ Production-ready embeddable chat solution.
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ishatiwari&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishatiwari&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ishatiwari&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
